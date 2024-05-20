@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "id": "OLJCESPC7Z",
+            "name": "Bird dry food",
+            "description": "Best dry food for a bird.",
+            "picture": "static/img/products/typewriter.jpg",
+            "cost": 17.99,
+            "categories": ["vintage"]
+        },
+        {
+            "id": "66VCHSJNUP",
+            "name": "Bird wet food",
+            "description": "Allows your bird to eat and drink",
+            "picture": "static/img/products/camera-lens.jpg",
+            "cost": 12.49,
+            "categories": ["photography", "vintage"]
+        },
+        {
+            "id": "1YMWWN1N4O",
+            "name": "Bird food supplement",
+            "description": "Does your bird need vitamin?",
+            "picture": "static/img/products/barista-kit.jpg",
+            "cost": 24,
+            "categories": ["cookware"]
+        },
+        {
+            "id": "L9ECAV7KIM",
+            "name": "Cat dry food",
+            "description": "Dry food is good for cats' teeth",
+            "picture": "static/img/products/terrarium.jpg",
+            "cost": 16.45,
+            "categories": ["gardening"]
+        },
+        {
+            "id": "2ZYFJ3GM2N",
+            "name": "Cat wet food",
+            "description": "Wet food is good for cats' kidneys.",
+            "picture": "static/img/products/film-camera.jpg",
+            "cost": 45,
+            "categories": ["photography", "vintage"]
+        },
+        {
+            "id": "0PUK6V6EV0",
+            "name": "Cat supplements",
+            "description": "If cats need energy.",
+            "picture": "static/img/products/record-player.jpg",
+            "cost": 15.50,
+            "categories": ["music", "vintage"]
+        },
+        {
+            "id": "LS4PSXUNUM",
+            "name": "Dog dry food",
+            "description": "Always a treat for your dog.",
+            "picture": "static/img/products/camp-mug.jpg",
+            "cost": 14.33,
+            "categories": ["cookware"]
+        },
+        {
+            "id": "9SIQT8TOJO",
+            "name": "Dog wet food",
+            "description": "The easiest meal.",
+            "picture": "static/img/products/city-bike.jpg",
+            "cost": 39.50,
+            "categories": ["cycling"]
+        },
+        {
+            "id": "6E92ZMYYFZ",
+            "name": "Dog vitamins",
+            "description": "Better than orange juice.",
+            "picture": "static/img/products/air-plant.jpg",
+            "cost": 12.30,
+            "categories": ["gardening"]
+        }
+    ]
+}
